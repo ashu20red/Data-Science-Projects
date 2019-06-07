@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Salary-Prediction
 ## 1. Data Description:
 The data comprise of roughly 25,000 records for males between the age of 18 and 70 who are full time workers. A variety of variables are given for each subject: years of education and job experience, college graduate (yes, no), working in or near a city (yes, no), US region (midwest, northeast, south, west), commuting distance, number of employees in a company, and race (African America, Caucasian, Other). The response variable is weekly wages (in dollars). The data are taken many decades ago so the wages are low compared to current times. The data set salary.txt is included in this directory. 
 
